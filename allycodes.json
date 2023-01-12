@@ -1,0 +1,190 @@
+
+  {
+    "name": "J",
+    "comment": "J",
+    "discordId": "Josh7777777#5565",
+    "allyCode": "175364214",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Voltarr",
+    "discordId": "Voltarr#4040",
+    "comment": "just a commment, not used by the bot",
+    "allyCode": " 579423131",
+    "userIcon": "Hello there, :skull_crossbones:",
+    "tagIdOnClimb" : ""
+  },
+  {
+    "name": "almazzz",
+    "comment": "if skip:true -> bot will ignore this ally code",
+    "discordId": "Almazzz#6383",
+    "allyCode": "118968111",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+  },
+  {
+    "name": "Antonij",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Antonij#6974",
+    "allyCode": "698267478",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Bondgava",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Bondgava#6401",
+    "allyCode": "856321848",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Corruptus",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Corruptus#1956",
+    "allyCode": "329667946",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "D4LT",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "D4LT#8129",
+    "allyCode": "347158372",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "DanDan",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Branston#6473",
+    "allyCode": "498378599",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Executex",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Executex#8186",
+    "allyCode": "379697514",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Ka Negsan",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "ka_negsan#2197",
+    "allyCode": "828924198",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Kvothe",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Kvothe#5268",
+    "allyCode": "571199527",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Leopold",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "LEOPOLD#6890",
+    "allyCode": "134846881",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Lindbom14",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Lindbom14#5982",
+    "allyCode": "558198963",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "MK Bardock",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "MarkSeven#4206",
+    "allyCode": "651473136",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Obi Gon",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Obi Gon#1354",
+    "allyCode": "492371285",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Shamoss",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "shaun#2571",
+    "allyCode": "577939572",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "suenapse",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Suenapse#6236",
+    "allyCode": "979813935",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "takingitserious",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "TakingItSerious#1226",
+    "allyCode": "557919617",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "tibarn765",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Tibarn#7251",
+    "allyCode": "166454914",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Tobi WanKenobi",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Tobi86#9198",
+    "allyCode": "964836267",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  },
+  {
+    "name": "Серп",
+    "comment": "adding & in front of the discord id will tag the role",
+    "discordId": "Серп#9928",
+    "allyCode": "496519764",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  }
+]
