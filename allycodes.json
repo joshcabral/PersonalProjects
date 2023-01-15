@@ -186,5 +186,121 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
     "userIcon": ""
+  },
+  {
+    "name": "XмⅈꞀΞX",
+    "comment": "none",
+    "discordId": "xmilex#0143",
+    "allyCode": "815992661",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : ""
+  },
+  {
+    "name": "Nuvo",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "929295455",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "Iwavish Ko",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "399438157",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "kaze",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "392417672",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "Twixgeneral",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "765173216",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "НеДоброЖелатель",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "118968111",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "Growlanator",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "327481166",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "Growlanator",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "327481166",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "Qui Spiuar",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "984484827",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "GoldenKneecaps",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "412674217",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "21StarKiller13",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "541498363",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "Surge Bolt7",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "882177329",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
+  },
+  {
+    "name": "Razegal",
+    "comment": "enemy",
+    "discordId": "",
+    "allyCode": "761859464",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy~1:"
   }
 ]
