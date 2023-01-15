@@ -2,206 +2,206 @@
   {
     "name": "J",
     "comment": "J",
-    "discordId": "Josh7777777#5565",
+    "discordId": "@Josh7777777#5565",
     "allyCode": "175364214",
     "userIcon": "",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb": ":greenup:"
   },
   {
     "name": "Voltarr",
-    "discordId": "Voltarr#4040",
+    "discordId": "@Voltarr#4040",
     "comment": "just a commment, not used by the bot",
     "allyCode": " 579423131",
-    "userIcon": "",
-    "tagIdOnClimb" : ""
+    "userIcon": ":reddown:",
+    "tagIdOnClimb" : ":greenup:"
   },
   {
     "name": "almazzz",
     "comment": "if skip:true -> bot will ignore this ally code",
-    "discordId": "Almazzz#6383",
+    "discordId": "@Almazzz#6383",
     "allyCode": "118968111",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Antonij",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Antonij#6974",
+    "discordId": "@Antonij#6974",
     "allyCode": "698267478",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Bondgava",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Bondgava#6401",
+    "discordId": "@Bondgava#6401",
     "allyCode": "856321848",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Corruptus",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Corruptus#1956",
+    "discordId": "@Corruptus#1956",
     "allyCode": "329667946",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "D4LT",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "D4LT#8129",
+    "discordId": "@D4LT#8129",
     "allyCode": "347158372",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "DanDan",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Branston#6473",
+    "discordId": "@Branston#6473",
     "allyCode": "498378599",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Executex",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Executex#8186",
+    "discordId": "@Executex#8186",
     "allyCode": "379697514",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Ka Negsan",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "ka_negsan#2197",
+    "discordId": "@ka_negsan#2197",
     "allyCode": "828924198",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Kvothe",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Kvothe#5268",
+    "discordId": "@Kvothe#5268",
     "allyCode": "571199527",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Leopold",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "LEOPOLD#6890",
+    "discordId": "@LEOPOLD#6890",
     "allyCode": "134846881",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Lindbom14",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Lindbom14#5982",
+    "discordId": "@Lindbom14#5982",
     "allyCode": "558198963",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "MK Bardock",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "MarkSeven#4206",
+    "discordId": "@MarkSeven#4206",
     "allyCode": "651473136",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Obi Gon",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Obi Gon#1354",
+    "discordId": "@Obi Gon#1354",
     "allyCode": "492371285",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Shamoss",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "shaun#2571",
+    "discordId": "@shaun#2571",
     "allyCode": "577939572",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "suenapse",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Suenapse#6236",
+    "discordId": "@Suenapse#6236",
     "allyCode": "979813935",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "takingitserious",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "TakingItSerious#1226",
+    "discordId": "@TakingItSerious#1226",
     "allyCode": "557919617",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "tibarn765",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Tibarn#7251",
+    "discordId": "@Tibarn#7251",
     "allyCode": "166454914",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Tobi WanKenobi",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Tobi86#9198",
+    "discordId": "@Tobi86#9198",
     "allyCode": "964836267",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "Серп",
     "comment": "adding & in front of the discord id will tag the role",
-    "discordId": "Серп#9928",
+    "discordId": "@Серп#9928",
     "allyCode": "496519764",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ""
   },
   {
     "name": "XмⅈꞀΞX",
     "comment": "none",
-    "discordId": "xmilex#0143",
+    "discordId": "@xmilex#0143",
     "allyCode": "815992661",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : ""
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:"
   },
   {
     "name": "Nuvo",
     "comment": "enemy",
     "discordId": "",
     "allyCode": "929295455",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -209,8 +209,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "399438157",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -218,8 +218,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "392417672",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -227,8 +227,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "765173216",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -236,8 +236,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "118968111",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -245,8 +245,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "327481166",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -254,8 +254,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "327481166",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -263,8 +263,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "984484827",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -272,8 +272,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "412674217",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -281,8 +281,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "541498363",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -290,8 +290,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "882177329",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   },
   {
@@ -299,8 +299,8 @@
     "comment": "enemy",
     "discordId": "",
     "allyCode": "761859464",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb" : "",
+    "tagIdOnDrop": ":reddown:",
+    "tagIdOnClimb" : ":greenup:",
     "userIcon": ":enemy:"
   }
 ]
