@@ -202,7 +202,7 @@
     "allyCode": "929295455",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "Iwavish Ko",
@@ -211,7 +211,7 @@
     "allyCode": "399438157",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "kaze",
@@ -220,7 +220,7 @@
     "allyCode": "392417672",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "Twixgeneral",
@@ -229,7 +229,7 @@
     "allyCode": "765173216",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "НеДоброЖелатель",
@@ -238,7 +238,7 @@
     "allyCode": "118968111",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "Growlanator",
@@ -247,7 +247,7 @@
     "allyCode": "327481166",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "Growlanator",
@@ -256,7 +256,7 @@
     "allyCode": "327481166",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "Qui Spiuar",
@@ -265,7 +265,7 @@
     "allyCode": "984484827",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "GoldenKneecaps",
@@ -274,7 +274,7 @@
     "allyCode": "412674217",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "21StarKiller13",
@@ -283,7 +283,7 @@
     "allyCode": "541498363",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "Surge Bolt7",
@@ -292,7 +292,7 @@
     "allyCode": "882177329",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   },
   {
     "name": "Razegal",
@@ -301,6 +301,6 @@
     "allyCode": "761859464",
     "tagIdOnDrop": "",
     "tagIdOnClimb" : "",
-    "userIcon": ":enemy~1:"
+    "userIcon": ":enemy:"
   }
 ]
