@@ -1,12 +1,12 @@
 [
   {
-    "name": "175364214|J",
+    "name": "J",
     "comment": "J",
     "discordId": "@Josh7777777#5565",
     "allyCode": "175364214",
     "userIcon": "",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
   },
   {
     "name": "579423131|Voltarr",
@@ -14,15 +14,16 @@
     "comment": "just a commment, not used by the bot",
     "allyCode": " 579423131",
     "userIcon": "",
-    "tagIdOnClimb": "RotBot#8933"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
   },
   {
     "name": "118968111|almazzz",
     "comment": "if skip:true -> bot will ignore this ally code",
     "discordId": "@Almazzz#6383",
     "allyCode": "118968111",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -30,8 +31,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Antonij#6974",
     "allyCode": "698267478",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -39,8 +40,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Bondgava#6401",
     "allyCode": "856321848",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -48,8 +49,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Corruptus#1956",
     "allyCode": "329667946",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -57,8 +58,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@D4LT#8129",
     "allyCode": "347158372",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -66,8 +67,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Branston#6473",
     "allyCode": "498378599",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -75,8 +76,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Executex#8186",
     "allyCode": "379697514",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -84,8 +85,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@ka_negsan#2197",
     "allyCode": "828924198",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -93,8 +94,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Kvothe#5268",
     "allyCode": "571199527",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -102,8 +103,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@LEOPOLD#6890",
     "allyCode": "134846881",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -111,8 +112,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Lindbom14#5982",
     "allyCode": "558198963",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -120,8 +121,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@MarkSeven#4206",
     "allyCode": "651473136",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -129,8 +130,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Obi Gon#1354",
     "allyCode": "492371285",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -138,8 +139,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@shaun#2571",
     "allyCode": "577939572",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -147,8 +148,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Suenapse#6236",
     "allyCode": "979813935",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -156,8 +157,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@TakingItSerious#1226",
     "allyCode": "557919617",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -165,8 +166,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Tibarn#7251",
     "allyCode": "166454914",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -174,8 +175,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Tobi86#9198",
     "allyCode": "964836267",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -183,8 +184,8 @@
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Серп#9928",
     "allyCode": "496519764",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
     "userIcon": ""
   },
   {
@@ -192,114 +193,114 @@
     "comment": "none",
     "discordId": "@xmilex#0143",
     "allyCode": "815992661",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
   },
   {
     "name": "765173216|Twixgeneral",
     "comment": "",
     "discordId": "",
     "allyCode": "765173216",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
     },
   {
     "name": "929295455|Nuvo",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "929295455",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "399438157|Iwavish Ko",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "399438157",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "392417672|kaze",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "392417672",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "118968111|НеДоброЖелатель",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "118968111",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "327481166|Growlanator",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "327481166",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "327481166|Growlanator",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "327481166",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "984484827|Qui Spiuar",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "984484827",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "412674217|GoldenKneecaps",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "412674217",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "541498363|21StarKiller13",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "541498363",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "882177329|Surge Bolt7",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "882177329",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   },
   {
     "name": "761859464|Razegal",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "761859464",
-    "tagIdOnDrop": "RotBot#8933",
-    "tagIdOnClimb": "RotBot#8933",
-    "userIcon": ":enemy:"
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+    "userIcon": ""
   }
 ]
