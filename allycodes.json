@@ -1,306 +1,308 @@
 [
   {
-    "name": "J",
+    "name": "175364214|J",
     "comment": "J",
     "discordId": "@Josh7777777#5565",
     "allyCode": "175364214",
     "userIcon": "",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933,
+    "userIcon": "175364214|"
   },
   {
-    "name": "Voltarr",
+    "name": "579423131|Voltarr",
     "discordId": "@Voltarr#4040",
     "comment": "just a commment, not used by the bot",
-    "allyCode": " 579423131",
-    "userIcon": "",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
+    "allyCode": "579423131",
+    "userIcon": "579423131|",
+    "tagIdOnClimb": "&RotBot#8933"
   },
   {
-    "name": "almazzz",
+    "name": "118968111|almazzz",
     "comment": "if skip:true -> bot will ignore this ally code",
     "discordId": "@Almazzz#6383",
     "allyCode": "118968111",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "118968111|"
   },
   {
     "name": "698267478|Antonij",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Antonij#6974",
     "allyCode": "698267478",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "698267478|"
   },
   {
     "name": "856321848|Bondgava",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Bondgava#6401",
     "allyCode": "856321848",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "856321848|"
   },
   {
-    "name": "Corruptus",
+    "name": "329667946|Corruptus",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Corruptus#1956",
     "allyCode": "329667946",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "329667946|"
   },
   {
-    "name": "D4LT",
+    "name": "347158372|D4LT",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@D4LT#8129",
     "allyCode": "347158372",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "347158372|"
   },
   {
-    "name": "DanDan",
+    "name": "498378599|DanDan",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Branston#6473",
     "allyCode": "498378599",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "498378599|"
   },
   {
-    "name": "Executex",
+    "name": "379697514|Executex",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Executex#8186",
     "allyCode": "379697514",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "379697514|"
   },
   {
-    "name": "Ka Negsan",
+    "name": "828924198|Ka Negsan",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@ka_negsan#2197",
     "allyCode": "828924198",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "828924198|"
   },
   {
-    "name": "Kvothe",
+    "name": "571199527|Kvothe",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Kvothe#5268",
     "allyCode": "571199527",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "571199527|"
   },
   {
-    "name": "Leopold",
+    "name": "134846881|Leopold",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@LEOPOLD#6890",
     "allyCode": "134846881",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "134846881|"
   },
   {
-    "name": "Lindbom14",
+    "name": "558198963|Lindbom14",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Lindbom14#5982",
     "allyCode": "558198963",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "558198963|"
   },
   {
-    "name": "MK Bardock",
+    "name": "651473136|MK Bardock",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@MarkSeven#4206",
     "allyCode": "651473136",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "651473136|"
   },
   {
-    "name": "Obi Gon",
+    "name": "492371285|Obi Gon",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Obi Gon#1354",
     "allyCode": "492371285",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "492371285|"
   },
   {
-    "name": "Shamoss",
+    "name": "577939572|Shamoss",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@shaun#2571",
     "allyCode": "577939572",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "577939572|"
   },
   {
-    "name": "suenapse",
+    "name": "979813935|suenapse",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Suenapse#6236",
     "allyCode": "979813935",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "979813935|"
   },
   {
-    "name": "akingItSerious",
+    "name": "557919617|TakingItSerious",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@TakingItSerious#1226",
     "allyCode": "557919617",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "557919617|"
   },
   {
-    "name": "Tibarn765",
+    "name": "166454914|Tibarn765",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Tibarn#7251",
     "allyCode": "166454914",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "166454914|"
   },
   {
-    "name": "Tobi WanKenobi",
+    "name": "964836267|Tobi WanKenobi",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Tobi86#9198",
     "allyCode": "964836267",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "964836267|"
   },
   {
-    "name": "Серп",
+    "name": "496519764|Серп",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Серп#9928",
     "allyCode": "496519764",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "496519764|"
   },
   {
-    "name": "XмⅈꞀΞX",
+    "name": "815992661|XмⅈꞀΞX",
     "comment": "none",
     "discordId": "@xmilex#0143",
     "allyCode": "815992661",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "815992661|"
   },
   {
-    "name": "Twixgeneral",
+    "name": "765173216|Twixgeneral",
     "comment": "",
     "discordId": "",
     "allyCode": "765173216",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "765173216|"
     },
   {
-    "name": "Nuvo",
+    "name": "929295455|Nuvo",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "929295455",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "929295455|"
   },
   {
-    "name": "Iwavish Ko",
+    "name": "399438157|Iwavish Ko",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "399438157",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "399438157|"
   },
   {
-    "name": "kaze",
+    "name": "392417672|kaze",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "392417672",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "392417672|"
   },
   {
-    "name": "НеДоброЖелатель",
+    "name": "118968111|НеДоброЖелатель",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "118968111",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "118968111|"
   },
   {
-    "name": "Growlanator",
+    "name": "327481166|Growlanator",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "327481166",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "327481166|"
   },
   {
-    "name": "Growlanator",
+    "name": "327481166|Growlanator",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "327481166",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "327481166|"
   },
   {
-    "name": "Qui Spiuar",
+    "name": "984484827|Qui Spiuar",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "984484827",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "984484827|"
   },
   {
-    "name": "GoldenKneecaps",
+    "name": "412674217|GoldenKneecaps",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "412674217",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "412674217|"
   },
   {
-    "name": "21StarKiller13",
+    "name": "541498363|21StarKiller13",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "541498363",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "541498363|"
   },
   {
-    "name": "Surge Bolt7",
+    "name": "882177329|Surge Bolt7",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "882177329",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "882177329|"
   },
   {
-    "name": "Razegal",
+    "name": "761859464|Razegal",
     "comment": ":enemy:",
     "discordId": "",
     "allyCode": "761859464",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": "",
-    "userIcon": ""
+    "tagIdOnDrop": "&RotBot#8933",
+    "tagIdOnClimb": "&RotBot#8933",
+    "userIcon": "761859464|"
   }
 ]
