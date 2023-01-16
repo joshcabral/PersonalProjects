@@ -4,108 +4,84 @@
     "comment": "J",
     "discordId": "@Josh7777777#5565",
     "allyCode": "175364214",
-    "userIcon": "",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "175364214|"
+    "userIcon": "<@586090022004850688>`175364214`|"
   },
   {
     "name": "579423131|Voltarr",
     "discordId": "@Voltarr#4040",
     "comment": "just a commment, not used by the bot",
     "allyCode": "579423131",
-    "userIcon": "579423131|",
-    "tagIdOnClimb": "&RotBot#8933"
+    "userIcon": "<@586090022004850688>`579423131`|",
   },
   {
     "name": "118968111|almazzz",
     "comment": "if skip:true -> bot will ignore this ally code",
     "discordId": "@Almazzz#6383",
     "allyCode": "118968111",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "118968111|"
+    "userIcon": "<@586090022004850688>`118968111`|"
   },
   {
     "name": "698267478|Antonij",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Antonij#6974",
     "allyCode": "698267478",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "698267478|"
+    "userIcon": "<@586090022004850688>`698267478`|"
   },
   {
     "name": "856321848|Bondgava",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Bondgava#6401",
     "allyCode": "856321848",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "856321848|"
+    "userIcon": "<@586090022004850688>`856321848`|"
   },
   {
     "name": "329667946|Corruptus",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Corruptus#1956",
     "allyCode": "329667946",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "329667946|"
+    "userIcon": "<@586090022004850688>`329667946`|"
   },
   {
     "name": "347158372|D4LT",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@D4LT#8129",
     "allyCode": "347158372",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "347158372|"
+    "userIcon": "<@586090022004850688>`347158372`|"
   },
   {
     "name": "498378599|DanDan",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Branston#6473",
     "allyCode": "498378599",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "498378599|"
+    "userIcon": "<@586090022004850688>`498378599`|"
   },
   {
     "name": "379697514|Executex",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Executex#8186",
     "allyCode": "379697514",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "379697514|"
+    "userIcon": "<@586090022004850688>`379697514`|"
   },
   {
     "name": "828924198|Ka Negsan",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@ka_negsan#2197",
     "allyCode": "828924198",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "828924198|"
+    "userIcon": "<@586090022004850688>`828924198`|"
   },
   {
     "name": "571199527|Kvothe",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@Kvothe#5268",
     "allyCode": "571199527",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "571199527|"
+    "userIcon": "<@586090022004850688>`571199527`|"
   },
   {
     "name": "134846881|Leopold",
     "comment": "adding & in front of the discord id will tag the role",
     "discordId": "@LEOPOLD#6890",
     "allyCode": "134846881",
-    "tagIdOnDrop": "&RotBot#8933",
-    "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "134846881|"
+    "userIcon": "<@586090022004850688>`134846881`|"
   },
   {
     "name": "558198963|Lindbom14",
@@ -114,7 +90,7 @@
     "allyCode": "558198963",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "558198963|"
+    "userIcon": "<@586090022004850688>`558198963`|"
   },
   {
     "name": "651473136|MK Bardock",
@@ -123,7 +99,7 @@
     "allyCode": "651473136",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "651473136|"
+    "userIcon": "<@586090022004850688>`651473136`|"
   },
   {
     "name": "492371285|Obi Gon",
@@ -132,7 +108,7 @@
     "allyCode": "492371285",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "492371285|"
+    "userIcon": "<@586090022004850688>`492371285`|"
   },
   {
     "name": "577939572|Shamoss",
@@ -141,7 +117,7 @@
     "allyCode": "577939572",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "577939572|"
+    "userIcon": "<@586090022004850688>`577939572`|"
   },
   {
     "name": "979813935|suenapse",
@@ -150,7 +126,7 @@
     "allyCode": "979813935",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "979813935|"
+    "userIcon": "<@586090022004850688>`979813935`|"
   },
   {
     "name": "557919617|TakingItSerious",
@@ -159,7 +135,7 @@
     "allyCode": "557919617",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "557919617|"
+    "userIcon": "<@586090022004850688>`557919617`|"
   },
   {
     "name": "166454914|Tibarn765",
@@ -168,7 +144,7 @@
     "allyCode": "166454914",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "166454914|"
+    "userIcon": "<@586090022004850688>`166454914`|"
   },
   {
     "name": "964836267|Tobi WanKenobi",
@@ -177,7 +153,7 @@
     "allyCode": "964836267",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "964836267|"
+    "userIcon": "<@586090022004850688>`964836267`|"
   },
   {
     "name": "496519764|Серп",
@@ -186,7 +162,7 @@
     "allyCode": "496519764",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "496519764|"
+    "userIcon": "<@586090022004850688>`496519764`|"
   },
   {
     "name": "815992661|XмⅈꞀΞX",
@@ -195,7 +171,7 @@
     "allyCode": "815992661",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "815992661|"
+    "userIcon": "<@586090022004850688>`815992661`|"
   },
   {
     "name": "765173216|Twixgeneral",
@@ -204,7 +180,7 @@
     "allyCode": "765173216",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "765173216|"
+    "userIcon": "<@586090022004850688>`765173216`|"
     },
   {
     "name": "929295455|Nuvo",
@@ -213,7 +189,7 @@
     "allyCode": "929295455",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "929295455|"
+    "userIcon": "<@586090022004850688>`929295455`|"
   },
   {
     "name": "399438157|Iwavish Ko",
@@ -222,7 +198,7 @@
     "allyCode": "399438157",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "399438157|"
+    "userIcon": "<@586090022004850688>`399438157`|"
   },
   {
     "name": "392417672|kaze",
@@ -231,7 +207,7 @@
     "allyCode": "392417672",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "392417672|"
+    "userIcon": "<@586090022004850688>`392417672`|"
   },
   {
     "name": "118968111|НеДоброЖелатель",
@@ -240,7 +216,7 @@
     "allyCode": "118968111",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "118968111|"
+    "userIcon": "<@586090022004850688>`118968111`|"
   },
   {
     "name": "327481166|Growlanator",
@@ -249,7 +225,7 @@
     "allyCode": "327481166",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "327481166|"
+    "userIcon": "<@586090022004850688>`327481166`|"
   },
   {
     "name": "327481166|Growlanator",
@@ -258,7 +234,7 @@
     "allyCode": "327481166",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "327481166|"
+    "userIcon": "<@586090022004850688>`327481166`|"
   },
   {
     "name": "984484827|Qui Spiuar",
@@ -267,7 +243,7 @@
     "allyCode": "984484827",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "984484827|"
+    "userIcon": "<@586090022004850688>`984484827`|"
   },
   {
     "name": "412674217|GoldenKneecaps",
@@ -276,7 +252,7 @@
     "allyCode": "412674217",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "412674217|"
+    "userIcon": "<@586090022004850688>`412674217`|"
   },
   {
     "name": "541498363|21StarKiller13",
@@ -285,7 +261,7 @@
     "allyCode": "541498363",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "541498363|"
+    "userIcon": "<@586090022004850688>`541498363`|"
   },
   {
     "name": "882177329|Surge Bolt7",
@@ -294,7 +270,7 @@
     "allyCode": "882177329",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "882177329|"
+    "userIcon": "<@586090022004850688>`882177329`|"
   },
   {
     "name": "761859464|Razegal",
@@ -303,6 +279,6 @@
     "allyCode": "761859464",
     "tagIdOnDrop": "&RotBot#8933",
     "tagIdOnClimb": "&RotBot#8933",
-    "userIcon": "761859464|"
+    "userIcon": "<@586090022004850688>`761859464`|"
   }
 ]
